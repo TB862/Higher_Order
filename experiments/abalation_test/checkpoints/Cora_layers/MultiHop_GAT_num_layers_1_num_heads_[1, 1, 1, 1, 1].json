@@ -1,0 +1,16 @@
+{
+    "lr": 0.05,
+    "drop_out": 0.6,
+    "gamma": 0.99,
+    "weight_decay": 0.001,
+    "agg_func": "mean",
+    "num_epochs": 1,
+    "num_layers": 1,
+    "num_heads": [
+        1,
+        1,
+        1,
+        1,
+        1
+    ]
+}

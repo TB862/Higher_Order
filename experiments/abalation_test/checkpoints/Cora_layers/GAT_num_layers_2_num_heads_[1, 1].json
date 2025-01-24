@@ -1,0 +1,12 @@
+{
+    "lr": 0.01,
+    "drop_out": 0.6,
+    "gamma": 1.0,
+    "agg_func": "mean",
+    "num_epochs": 150,
+    "num_layers": 2,
+    "num_heads": [
+        1,
+        1
+    ]
+}
