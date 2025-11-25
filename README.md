@@ -30,15 +30,14 @@ HoGA extends existing single-hop GNN models to a k-hop setting by sampling the k
 If you find this repository or the HoGA module useful in your research, please consider citing our paper:
 
 ```bibtex
-@inproceedings{bailie2026hoga,
-  title     = {HoGA: Higher-Order Graph Attention via Diversity-Aware k-Hop Sampling},
-  author    = {Bailie, Thomas and Koh, Yun Sing and Mukkavilli, Karthik},
-  booktitle = {Proceedings of the 19th ACM International Conference on Web Search and Data Mining (WSDM '26)},
-  year      = {2026},
-  publisher = {ACM},
-  address   = {New York, NY, USA},
-  url       = {https://arxiv.org/abs/2411.12052},
-  note      = {arXiv:2411.12052 [cs.LG]}
+@misc{bailie2025hogahigherordergraphattention,
+      title={HoGA: Higher-Order Graph Attention via Diversity-Aware k-Hop Sampling}, 
+      author={Thomas Bailie and Yun Sing Koh and Karthik Mukkavilli},
+      year={2025},
+      eprint={2411.12052},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2411.12052}, 
 }
 
 
